@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pyo
+*.pyd
+*.pyd
+
+account/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.mo
+*.out
+*.db
+*.sqlite3
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pytest
+.cache/
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+media
+
+
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Environments
+.Python
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+bin/
+var/
+venv/
